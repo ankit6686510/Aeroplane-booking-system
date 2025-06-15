@@ -1,0 +1,17 @@
+{
+  "name": "aeroplane-booking-system",
+  "version": "1.0.0",
+  "description": "aeroplane booking system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
+  "author": "ankit jha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "http-status-codes": "^2.3.0",
+    "nodemon": "^3.1.10"
+  }
+}
