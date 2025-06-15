@@ -101,7 +101,7 @@ PORT=3000  # or any port of your choice
 
 ### 4. Initialize Sequelize (if using Sequelize ORM)
 
-Run this command from the root directory:
+Run this command from the root directory or in src folder to initialize migrations and seeders for Sequelize:
 
 ```bash
 npx sequelize init
